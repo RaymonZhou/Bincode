@@ -1,12 +1,10 @@
-    * {
-  font-family: 'Georgia', 'Times', serif;
+h1 {
+    color: Red;
+    font-family: Roboto, Times New Roman, sans-serif;
 }
 
-a {
-  color: SeaGreen;
-  text-decoration: none;
-}
-
-img {
-  border-radius: 100%;
+p {
+    color: Teal;
+	font-family: Raleway, Times New Roman, sans-serif;
+    font-size: 14px;
 }
