@@ -1,0 +1,16 @@
+* {
+  font-family: 'Arial', 'Times', serif;
+}
+
+h1 {
+  color: Red;	
+}
+
+p {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+}
