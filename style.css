@@ -1,25 +1,29 @@
 * {
   background-color: Azure;
-  font-family: 'Arial', 'Times', serif;
-}
-
-.header {
-  background-position: center center;
-  height: 50px;  
 }
 
 h1 {
-  color: Red;	
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+}
+
+h2 {
+  border-bottom: 2px solid rgba(42, 59, 66, 0.5);
+  color: Black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
 }
 
 p {
   color: rgb(35, 12, 232);
   color: rgba(35, 12, 232, 0.4);
-  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 
 li {
   color: Brown;
-  font-family: Garamond;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
 }
