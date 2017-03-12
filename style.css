@@ -1,5 +1,10 @@
-* {
+body {
   background-color: Azure;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin:0 0 10px 0;
+  padding:0;
 }
 
 h1 {
@@ -26,4 +31,12 @@ li {
   color: Brown;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
+}
+
+.page {
+  width:800px;
+  margin:0 auto;
+  padding:20px;
+  background:#fff;
+  border:1px solid #eee;
 }
